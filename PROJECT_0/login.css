@@ -1,0 +1,65 @@
+.box, .form, #button {
+  margin: auto; }
+
+.box {
+  height: 90%;
+  width: 50%;
+  background-color: #ffcce6; }
+
+.box h1 {
+  color: #001a33;
+  text-align: center;
+  padding-top: 30px; }
+
+.form {
+  width: 80%;
+  padding-top: 50px;
+  padding-bottom: 40px; }
+
+.title {
+  overflow: auto;
+  position: relative;
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  background-color: #ffcce6; }
+
+.title img {
+  width: 10%;
+  float: left;
+  padding-left: 20px; }
+
+.title a {
+  float: right;
+  margin-right: 10px; }
+
+.title h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #001a33;
+  text-align: center;
+  font-family: 'Charm';
+  padding-right: 130px; }
+
+#button {
+  width: 5em;
+  border: 2px solid green;
+  background: #001a33;
+  border-radius: 5px; }
+  #button a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    color: #ffe; }
+
+body {
+  background-image: url("2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 70%;
+  width: 100%; }
+
+/*# sourceMappingURL=login.css.map */
